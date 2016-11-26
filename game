@@ -1,0 +1,8 @@
+/god ：无敌模式
+/demigod ：“半神”模式
+/give ammo ：获得弹药
+/noclip ：穿墙模式
+/ufo ：飞行模式
+/give all ：获得所有武器
+/g_speed # ：设置玩家速度 #为任意数字 默认是190
+/player_sustainammo 1 ：无限弹药
